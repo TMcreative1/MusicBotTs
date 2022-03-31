@@ -1,0 +1,24 @@
+# Dependency directories
+node_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+*.js
+**/*.js
+**/**/*.js
+
+# Optional npm cache directory
+.npm
+package-lock.json
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
+.env.test
+
+# IntelliJ project files
+.idea
+*.iml
+gen

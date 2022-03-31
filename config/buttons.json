@@ -1,0 +1,37 @@
+{
+  "buttons": [
+    {
+      "group": "radio",
+      "messageComponents": [
+        {
+          "customId": "pm",
+          "label": "Pop Music 2022",
+          "style": "PRIMARY",
+          "radioUrl": "https://www.youtube.com/watch?v=RLk_wxtNPvM",
+          "type": "BUTTON"
+        },
+        {
+          "customId": "lhhr",
+          "label": "Lofi Hip Hop Radio",
+          "style": "PRIMARY",
+          "radioUrl": "https://www.youtube.com/watch?v=5qap5aO4i9A",
+          "type": "BUTTON"
+        },
+        {
+          "customId": "cym",
+          "label": "ChillYourMind",
+          "style": "PRIMARY",
+          "radioUrl": "https://www.youtube.com/watch?v=sZpZM80eens",
+          "type": "BUTTON"
+        },
+        {
+          "customId": "grr",
+          "label": "Gangsta Rap Radio",
+          "style": "PRIMARY",
+          "radioUrl": "https://www.youtube.com/watch?v=mZHTwjLznVg",
+          "type": "BUTTON"
+        }
+      ]
+    }
+  ]
+}
